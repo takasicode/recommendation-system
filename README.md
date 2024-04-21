@@ -11,7 +11,6 @@ Proyek Akhir : Membuat Model Sistem Rekomendasi pada kelas Machine Learning Tera
     - Collaborative Filtering
 - Membuat draf laporan proyek machine learning yang menjelaskan alur proyek Anda mulai dari project overview, business understanding, data understanding, data preparation, modeling, hingga tahap evaluasi. Ketentuan draf laporan proyek machine learning dapat Anda lihat pada sub modul berikutnya tentang Detail Laporan.
 
-
 ## Saran
 - Menerapkan Rubrik/Kriteria Penilaian (Tambahan) untuk mendapatkan skala penilaian (bintang) yang lebih tinggi.
 
