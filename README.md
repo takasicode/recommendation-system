@@ -1,5 +1,5 @@
 ## Membuat Model Sistem Rekomendasi
-Proyek Akhir : Membuat Model Sistem Rekomendasi pada kelas Belajar Machine Learning untuk Pemula.
+Proyek Akhir : Membuat Model Sistem Rekomendasi pada kelas Machine Learning Terapan.
 
 ## Kriteria
 - Project merupakan hasil pekerjaan sendiri.
